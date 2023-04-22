@@ -1,22 +1,16 @@
 ### Eae devs 👋
 
-Gosto de criar soluções para problemas e praticamnete tudo que envolve tecnologia <br>
-Estou cursando Tecnico de Informatica para Internet (Desenvolvimento Web Full Stack) pelo SENAI <br>
-Criando o meu portfolio para futuramente postar os proximos projetos finalizados 
+## Sobre mim
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+Olá, meu nome é Alexsandro mais conhecido como Alex, atualmente sou auxliar administrativo enquanto estudo Desenvolvimento de Sistemas pela ETEC
+
+Desde jovem, sempre tive interesse em computadores e programação em especial a area de segurança. Minha paixão pela tecnologia me levou a estudar desenvolvimento web
+
+Além de programação, gosto de música, esportes e fotografia.
+
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object Alex {
- val name = "Alexsandro Xavier"
- val acknowledgements = "Desenvolvimento Web"
- 
- val languages = listOf("JavaScript") 
-
-}
-```
 
 ## **Linguagens e Ferramentas:**  
 
@@ -36,8 +30,6 @@ object Alex {
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsandroxavier/)
+![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/alexaviedev/)
 
