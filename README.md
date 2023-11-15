@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá, meu nome é Alexsandro mais conhecido como Alex, atualmente sou auxliar administrativo enquanto estudo Desenvolvimento de Sistemas pela ETEC
+Olá, meu nome é Alexsandro mais conhecido como Alex, atualmente sou auxiliar administrativo enquanto estudo Desenvolvimento de Sistemas pela ETEC
 
 Desde jovem, sempre tive interesse em computadores e programação em especial a area de segurança. Minha paixão pela tecnologia me levou a estudar desenvolvimento web
 
