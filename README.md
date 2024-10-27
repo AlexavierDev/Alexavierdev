@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá, meu nome é Alexsandro, mais conhecido como Alex. Sou auxiliar administrativo e formado em Desenvolvimento de Sistemas pela ETEC e em Informática para Internet pela escola SENAI.
+Olá, meu nome é Alexsandro, mais conhecido como Alex. Atualmente ocupo cargo de Help Desk e sou formado em Desenvolvimento de Sistemas pela ETEC e em Informática para Internet pela escola SENAI.
 
 Desde jovem, sempre tive interesse em computadores e programação, especialmente na área de segurança. Minha paixão pela tecnologia me levou a estudar desenvolvimento web.
 
@@ -22,9 +22,9 @@ Além de programação, gosto de música, esportes e fotografia.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 [website]: https://alexavierdev.github.io/Portfolio/
-[twitter]: https://twitter.com/alexaviedev
 [instagram]: https://www.instagram.com/alexaviedev/
 [linkedin]: https://www.linkedin.com/in/alexsandroxavier/
+
 <br>
 
 #### Redes Sociais!
